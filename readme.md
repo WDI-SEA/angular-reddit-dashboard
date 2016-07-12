@@ -78,3 +78,9 @@ Load the comments in a modal pop-up using angular bootstrap directives. It shoul
 Same as the search api... we just add a ".json" to the permalink.
 
 [http://www.reddit.com/r/cats/comments/1vimf5/cat_booping_my_nose_how_the_tables_have_turned.json](http://www.reddit.com/r/cats/comments/1vimf5/cat_booping_my_nose_how_the_tables_have_turned.json)
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
